@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   Contact.cpp                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: joterrett <joterrett@student.42.fr>        +#+  +:+       +#+        */
+/*   By: joterret <joterret@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/13 13:38:41 by joterrett         #+#    #+#             */
-/*   Updated: 2024/01/13 13:41:23 by joterrett        ###   ########.fr       */
+/*   Updated: 2024/01/30 23:12:57 by joterret         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,10 +48,6 @@ std::string Contact::getDarkestSecret() const{
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constructeur
-Contact::Contact(void) {
-
-}
+Contact::Contact(void) {}
 // Destructeur
-Contact::~Contact(void) {
-
-}
+Contact::~Contact(void) {}

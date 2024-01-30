@@ -8,7 +8,7 @@ CC = c++
 CFLAGS = -Wall -Wextra -Werror -std=c++98
 
 # Fichiers sources
-SRC = srcs/main.cpp lib/PhoneBook.cpp lib/Contact.cpp
+SRC = main.cpp PhoneBook.cpp Contact.cpp
 
 # Règle par défaut
 all: $(NAME)
